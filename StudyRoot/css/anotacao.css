@@ -1,0 +1,68 @@
+.editor{
+    min-width: 80vw;
+    min-height: 85vh;
+}
+
+.botao-volta-assunto{
+    height: 10vh;
+}
+
+.btn-salvas{
+    min-height: 5vh;
+    margin: 0;
+    padding: 0;
+    border-radius: 14px;
+    min-width: 6vw;
+    max-width: 8vw;
+    border-color: transparent;
+    background: white;
+}
+
+.btn-salvas:hover{
+    background-color: rgb(186, 186, 186);
+}
+
+.btn-salvas:active{
+    background-color: rgb(201, 201, 201);
+}
+
+.botao-sair{
+    border-color: transparent;
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+}
+
+.botao-sair p{
+    font-size: 10vh;
+    margin: 0;
+    padding: 0;
+}
+
+.titulo{
+    margin: 0;
+    padding: 0;
+    font-size: 10vh;
+    color: white;
+}
+
+.container-titulo{
+    min-width: 74vw;
+    max-height: 10vh;
+}
+
+.link-sair{
+    text-decoration: none;
+}
+
+.tox{
+    min-height: 85vh;
+}
+
+.tox-tinymce{
+    border-radius: 0;
+}
+
+.container-geral{
+    overflow-y: hidden;
+}
