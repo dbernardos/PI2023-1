@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CardText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textColor">?attr/colorOnSurface</item>
+    </style>
+
+    <style name="CardText.Small">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+
+    <style name="ToolbarTheme">
+        <item name="android:textColorPrimary">?attr/colorOnPrimary</item>
+        <item name="android:textColorSecondary">?attr/colorOnPrimary</item>
+        <item name="android:colorControlHighlight">?attr/colorPrimaryContainer</item>
+    </style>
+
+    <style name="ToolbarIconButton" parent="Widget.Material3.Button.IconButton">
+        <item name="rippleColor">?attr/colorPrimaryContainer</item>
+    </style>
+
+    <style name="ToolbarStyle">
+        <item name="android:backgroundTint">?attr/colorPrimary</item>
+        <item name="android:theme">@style/ToolbarTheme</item>
+        <item name="android:paddingLeft">@dimen/margin3</item>
+        <item name="android:paddingRight">@dimen/margin3</item>
+        <item name="android:paddingTop">@dimen/margin2</item>
+        <item name="android:paddingBottom">@dimen/margin2</item>
+        <item name="elevation">@dimen/margin2</item>
+        <item name="android:background">@drawable/shape_white</item>
+    </style>
+
+
+    <style name="FloatingActionButtonStyle" parent="Widget.Material3.FloatingActionButton.Primary">
+        <item name="rippleColor">?attr/colorSecondaryContainer</item>
+        <item name="android:backgroundTint">?attr/colorSecondary</item>
+        <item name="tint">?attr/colorOnSecondary</item>
+    </style>
+
+    <style name="ExtendedFloatingActionButtonStyle" parent="Widget.Material3.ExtendedFloatingActionButton.Primary">
+        <item name="rippleColor">?attr/colorSecondaryContainer</item>
+        <item name="android:backgroundTint">?attr/colorSecondary</item>
+        <item name="iconTint">?attr/colorOnSecondary</item>
+        <item name="android:textColor">?attr/colorOnSecondary</item>
+    </style>
+
+
+    <style name="InputValueAppearance">
+        <item name="android:padding">@dimen/margin1</item>
+        <item name="android:textColor">?attr/colorOnSecondary</item>
+        <item name="android:elevation">@dimen/margin1</item>
+        <item name="android:backgroundTint">?attr/colorSecondary</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:background">@drawable/shape_rounded</item>
+    </style>
+
+
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:windowBackground">?attr/colorPrimary</item>
+        <item name="android:navigationBarColor">?attr/colorPrimary</item>
+    </style>
+
+</resources>

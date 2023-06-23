@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pay It</string>
+    <string name="welcome">Bem-vindo</string>
+    <string name="welcome_message">Escolha uma das opções abaixo para começar a usar o app.</string>
+    <string name="sign_up">Cadastre-se</string> <!-- TODO: Fazer um string diferente para o botão e para o textview -->
+    <string name="sign_in">Fazer login</string> <!-- TODO: Fazer um string diferente para o botão e para o textview -->
+    <string name="without_account">Entrar sem uma conta</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="add_expense">Adicionar despesa</string>
+    <string name="filters">Filtros</string>
+    <string name="next_month">Mês seguinte</string>
+    <string name="prev_month">Mês anterior</string>
+    <string name="total_month_label">Total do mês</string>
+    <string name="pending_mounth_label">À pagar</string>
+    <string name="more">Mais opções</string>
+    <string name="settings">Configurações</string>
+    <string name="help">Ajuda</string>
+    <string name="late">Atrasado</string>
+    <string name="pending">Pendente</string>
+    <string name="paid">Pago</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="notification_overdue_singular">Você tem %d despesa atrasada!</string>
+    <string name="notification_overdue_plural">Você tem %d despesas atrasadas!</string>
+    <string name="notification_pending_singular">Você tem %d despesa próxima do vencimento!</string>
+    <string name="notification_pending_plural">Você tem %d despesas próximas do vencimento!</string>
+</resources>
