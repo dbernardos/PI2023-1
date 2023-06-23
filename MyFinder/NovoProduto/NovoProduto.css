@@ -1,0 +1,61 @@
+
+#divBusca{
+    background-color:#ffffff;
+    border:solid 2px #c0c3c4;
+    border-radius:10px;
+    width:300px;
+    height:32px;
+  }
+  
+  #txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:223px;
+  }
+  
+  #btnBusca{
+    border:none;
+    float:left;
+    height:32px;
+    border-radius:0 7px 7px 0;
+    width:70px;
+    font-weight:bold;
+    background:#989c9c;
+  }
+
+  #produto{
+    text-align: center;
+   
+  }
+
+  #produto{
+    max-width: 100%;
+    margin: 50px auto;
+    background-color: #b8b8b8;
+    padding: 20px;
+    border-radius: 9px;
+  }
+
+  label,
+textarea {
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+}
+
+textarea {
+    padding: 10px;
+    max-width: 100%;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}

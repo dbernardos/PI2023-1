@@ -1,0 +1,98 @@
+body{
+    background-color:  rgb(26, 26, 26);
+    width: 100%;
+    overflow-x: hidden;
+    }
+
+.logo{
+    border-radius: 55px;
+    margin: auto;
+    display: block;
+    width: 250px;
+    margin-top: 13vh;
+}
+
+/* Barra de rolagem */
+::-webkit-scrollbar{
+    width: 0.5vw;
+}
+
+::-webkit-scrollbar-track{
+    background-color: #363636;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: gray;
+    border-radius: 15px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background-color: rgb(186, 186, 186);
+}
+
+::-webkit-scrollbar-thumb:active{
+    background-color: rgb(201, 201, 201);
+}
+
+
+.email{
+  
+    height: 40px;
+}
+.login-usuario{
+  
+    width: 380px;
+    height: 45px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 8vh;
+    display: block;
+
+}
+
+
+.login-email{
+    width: 380px;
+    height: 45px;
+    border-radius: 10px;
+    margin: auto;
+    display: block;
+    margin-top: 5vh;
+}
+
+.login-password{
+    width: 380px;
+    height: 45px;
+    border-radius: 10px;
+    margin: auto;
+    display: block;
+    margin-top: 5vh;
+}
+
+.login-btn{
+    width: 190px;
+    height: 45px;
+    border-radius: 10px;
+    margin: auto;
+    display: block;
+    margin-top: 25px;
+}
+
+p{
+    
+    color: rgb(26, 26, 26);
+}
+
+h3{
+    margin-top: 45px;
+    text-align: center;
+}
+
+.linka{
+    text-decoration: none;
+   
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
