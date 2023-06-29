@@ -68,7 +68,7 @@ Este projeto visa auxiliar as pessoas que precisam controlar suas despesas. Para
 
 ### Desenvolvedores
 
-| [<img src="https://avatars.githubusercontent.com/u/117126925?v=4" width=115><br><sub>Victor Quoos</sub>](https://github.com/victorquoos) |  [<img src="https://avatars.githubusercontent.com/u/110194151?v=4" width=115><br><sub>Gabriel Dziecinny</sub>](https://github.com/KarlMarxLendario) | [<img src="https://avatars.githubusercontent.com/u/66352539?v=4" width=115><br><sub>Samuel Baron</sub>](https://github.com/Sabasi) |
+| [<img src="https://avatars.githubusercontent.com/u/117126925?v=4" width=115><br><sub>Victor Quoos</sub>](https://github.com/victorquoos) |  [<img src="https://avatars.githubusercontent.com/u/110194151?v=4" width=115><br><sub>Gabriel Dziecinny</sub>](https://github.com/GabrielDz27) | [<img src="https://avatars.githubusercontent.com/u/66352539?v=4" width=115><br><sub>Samuel Baron</sub>](https://github.com/Sabasi) |
 | :---: | :---: | :---:
 
 ## MyMed
