@@ -17,7 +17,7 @@
 
 ## Sistema FreeFrom
 <p align="justify">
-  Descrição breve do projeto compondo um paragrafo ou dois. 
+  O FreeFrom é um sistema para compra e venda de produtos naturais. 
 </p>
 
 ### Funcionalidades
@@ -36,6 +36,8 @@
 
 :heavy_check_mark: Editar o perfil da loja
 
+### Desenvolvedores
+
 | [<img src="https://avatars.githubusercontent.com/u/116108866?v=4" width=115><br><sub>Julian Alves</sub>](https://github.com/JulianAlves006) |  [<img src="https://avatars.githubusercontent.com/u/76058965?v=4" width=115><br><sub>Samara Cassie</sub>](https://github.com/samaraCassie) |  [<img src="https://avatars.githubusercontent.com/u/110414761?v=4" width=115><br><sub>Leticia Passold</sub>](https://github.com/LeticiaPassold) |
 | :---: | :---: | :---: 
 
@@ -53,6 +55,8 @@ O MyFinder é um monitorador de preços, que mantem o cadastro dos produtos dese
 :heavy_check_mark: Funcionalidade 3  : Administrar produtos
 
 :heavy_check_mark: Funcionalidade 4  : Monitorar histórico de preço
+
+### Desenvolvedores
 
 | [<img src="https://avatars.githubusercontent.com/u/110485657?s=48&v=4" width=115><br><sub>Kélcia Kohls</sub>](https://github.com/kelcia253) |  [<img src="https://avatars.githubusercontent.com/u/75365258?v=4" width=115><br><sub>Noemi Larissa</sub>](https://github.com/Diana-ops) |
 | :---: | :---:
@@ -80,9 +84,10 @@ Medical System tem como objetivo desenvolver um sistema que permita registrar e 
 
 :heavy_check_mark: Visualizar Relatos
 
+### Desenvolvedores
+
 | [<img src="https://avatars.githubusercontent.com/u/116109002?v=4" width=115><br><sub>Gabriel Otávio</sub>](https://github.com/GabrielSantanaL)|  [<img src="https://avatars.githubusercontent.com/u/116108711?v=4" width=115><br><sub>Nefi David</sub>](https://github.com/NefiJL) | 
 | :---: | :---: 
-
 
 
 ## Sistema PayIt
@@ -140,6 +145,8 @@ campo para escrever caso haja alterações após o uso da medicação. :older_wo
 
 :heavy_check_mark: O sistema deve mostrar os termos de uso ao usuário;
 
+### Desenvolvedores
+
 | [<img src="https://avatars.githubusercontent.com/u/118850960?v=4" width=115><br><sub>Laíse H. F.</sub>](https://github.com/laisefh) |  [<img src="https://avatars.githubusercontent.com/u/110931081?v=4" width=115><br><sub>Leticia Maria Onofre</sub>](https://github.com/LeleMaria1) | [<img src="https://avatars.githubusercontent.com/u/118850846?v=4" width=115><br><sub>Dharma Angela</sub>](https://github.com/DharmaAG) |
 | :---: | :---: | :---:
 
@@ -171,7 +178,7 @@ campo para escrever caso haja alterações após o uso da medicação. :older_wo
 :heavy_check_mark: Excluir informaçoes cadastradas 
 
 
-### Desenvolvedores/Contribuintes 
+### Desenvolvedores 
 
 | [<img src="https://avatars.githubusercontent.com/u/116108835?v=4" width=115><br><sub>Kaue Marlon Pavanello</sub>](https://github.com/0vidas) |  [<img src="https://avatars.githubusercontent.com/u/116108818?v=4" width=115><br><sub>Nicollas Cauã Todt</sub>](https://github.com/OFuturePica) |
 | :---: | :---:  
